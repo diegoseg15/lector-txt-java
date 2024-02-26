@@ -1,8 +1,8 @@
-# lector-txt-java
+# Sistemas de lecturas de tablas de registro txt
 
 ## Descripción
 
-lector-txt-java es una aplicación desarrollada en Next.js que permite leer una tabla de un archivo de texto y mostrarla en una interfaz intuitiva para el usuario. Esta aplicación es útil para visualizar datos tabulares de manera clara y sencilla.
+Sistemas de lecturas de tablas de registro txt es una aplicación Java que permite leer una tabla de un archivo de texto y mostrarla en una interfaz intuitiva para el usuario. Este proyecto proporciona una solución eficiente para visualizar datos tabulares almacenados en archivos de texto de una manera clara y accesible.
 
 ## Autor
 
@@ -14,30 +14,20 @@ lector-txt-java es una aplicación desarrollada en Next.js que permite leer una 
 
 ## Instalación
 
-Para utilizar esta aplicación en tu entorno local, sigue estos pasos:
-
-1. Clona este repositorio en tu máquina local usando el siguiente comando:
+Para utilizar esta aplicación, puedes clonar este repositorio usando el siguiente comando:
 
 ```
 git clone https://github.com/diegoseg15/lector-txt-java.git
 ```
 
-2. Navega a la carpeta del proyecto:
+## Uso
 
-```
-cd lector-txt-java
-```
+Después de clonar el repositorio, puedes compilar y ejecutar la aplicación Java en tu entorno de desarrollo preferido. Una vez en ejecución, podrás cargar un archivo de texto que contenga una tabla de registro y visualizar los datos en la interfaz de usuario proporcionada.
+git 
+## Licencia
 
-3. Instala las dependencias necesarias:
+Este proyecto está protegido por una licencia no gratuita. Para obtener más detalles sobre los términos de la licencia, por favor contacta al autor.
 
-```
-npm install
-```
+## Contribución
 
-4. Inicia la aplicación:
-
-```
-npm start
-```
-
-La aplicación estará disponible en [http://localhost:3000](http://localhost:3000) en tu navegador web.
+Actualmente, no se aceptan contribuciones externas para este proyecto.
