@@ -1,3 +1,7 @@
+<div width="100%">
+    <img src="https://github.com/diegoseg15/lector-txt-java/blob/main/src/assets/Captura%20de%20pantalla%202024-02-25%20185026.png?raw=true" alt="presentación de la app para leer txt" />
+</div>
+
 # Sistemas de lecturas de tablas de registro txt
 
 ## Descripción
